@@ -28,7 +28,7 @@ I build practical software and AI-driven tools, with a focus on accessibility an
 
 ## Open source
 
-- [CONTINUUM](https://github.com/Cyrax321/CONTINUUM): contributed to this open-source project for long-running AI agents. [Add one line on what you added.]
+- [CONTINUUM](https://github.com/Cyrax321/CONTINUUM): contributed to this open-source project for long-running AI agents.
 
 ## Connect
 
