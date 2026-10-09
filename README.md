@@ -25,6 +25,7 @@ I build practical software and AI-driven tools, with a focus on accessibility an
 - 🖥️ [**Language Translator Desktop**](https://github.com/unmoha/the-language-translator-desktop-apk): JavaFX client-server translation app with language detection, OCR, and speech-to-text.
 - 🧩 [**Enkoklsh (እንቆቅልሽ)**](https://github.com/unmoha/Enkokleh_quiz-web): Ethiopian-themed quiz web app in English, Amharic, and Afaan Oromo, built with PHP and MySQL.
 - 🍳 [**Kitchen Quest**](https://github.com/unmoha/Kitchen-Quest): Educational cooking game with recipes, XP progression, leaderboards, and an AI chef, built with Next.js and Supabase.
+- 💬 [**message-canvas**](https://github.com/unmoha/message-canvas): Real-time Telegram-style messaging app with one-to-one chats, group chats, and status indicators, built with React, Node.js, Socket.io, and MongoDB.
 
 ## Open source
 
