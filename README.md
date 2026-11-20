@@ -1,36 +1,145 @@
-# Hi, I'm Anwar 👋
+# Hi, I'm Anwar Mohammed 👋
 
-**Software Developer | AI & Accessibility Tools**
+### AI Engineer in Progress | Python Developer | Software Engineer
+
 📍 Ethiopia
 
-I build practical software and AI-driven tools, with a focus on accessibility and making technology work for Ethiopian and African languages.
+I build practical software and AI-powered applications focused on solving real-world problems. I'm particularly interested in **Artificial Intelligence, Machine Learning, LLMs, and building accessible technology through open-source software.**
 
-## What I do
+My approach is simple: **Learn. Build. Experiment. Improve.**
 
-- 💻 **Stack:** Python, Java, TypeScript, JavaScript, PHP
-- 🌍 **Building:** offline-first translation tools, full-stack web apps, and desktop apps
-- 🎯 **Focus areas:** accessibility tools, AI, open-source contribution
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+## 🚀 What I'm Working On
 
-## Featured projects
+- 🤖 **AI Engineering:** Exploring LLMs, RAG architectures, machine learning, and intelligent applications.
+- 🐍 **Software Development:** Building applications and backend systems using Python and modern technologies.
+- 🌍 **Local AI Innovation:** Exploring offline-first AI solutions and language accessibility for Ethiopian languages.
+- 🔓 **Open Source:** Building and contributing to projects that make technology more useful and accessible.
 
-- 🌐 [**African Language Accessibility Toolkit**](https://github.com/unmoha/African-Language-Accessibility-Toolkit): Offline-first Python library for translation and accessibility tools built around local AI providers, with Amharic, Afaan Oromo, and Tigrinya in its language metadata.
-- 🖥️ [**Language Translator Desktop**](https://github.com/unmoha/the-language-translator-desktop-apk): JavaFX client-server translation app with language detection, OCR, and speech-to-text.
-- 🧩 [**Enkoklsh (እንቆቅልሽ)**](https://github.com/unmoha/Enkokleh_quiz-web): Ethiopian-themed quiz web app in English, Amharic, and Afaan Oromo, built with PHP and MySQL.
-- 🍳 [**Kitchen Quest**](https://github.com/unmoha/Kitchen-Quest): Educational cooking game with recipes, XP progression, leaderboards, and an AI chef, built with Next.js and Supabase.
-- 💬 [**message-canvas**](https://github.com/unmoha/message-canvas): Real-time Telegram-style messaging app with one-to-one chats, group chats, and status indicators, built with React, Node.js, Socket.io, and MongoDB.
+## 🛠️ Tech Stack & Tools
 
-## Open source
+**Languages**
 
-- [CONTINUUM](https://github.com/Cyrax321/CONTINUUM): contributed to this open-source project for long-running AI agents.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Connect
+**Frameworks & Technologies**
 
-📫 anwarmoha7926@gmail.com
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 [DocuMind](https://github.com/unmoha/documind)
+**AI-Powered Document Intelligence | RAG System**
+
+An open-source Retrieval-Augmented Generation (RAG) system that enables intelligent document question answering with grounded responses and transparent source citations.
+
+- Semantic document retrieval and vector search.
+- Local embeddings using BGE-Small.
+- Persistent ChromaDB storage.
+- Provider-swappable LLM architecture.
+- FastAPI backend and Streamlit interface.
+- SQLite-backed audit trails.
+
+**Technologies:** Python, FastAPI, ChromaDB, Sentence Transformers, Gemini, Groq, Streamlit.
+
+### 🌍 [Open Local AI](https://github.com/unmoha/open-local-ai)
+**Offline-First Translation & Accessibility for Ethiopian Languages**
+
+An open-source Python framework providing a provider-independent translation interface built around local AI models.
+
+- Offline-first translation architecture.
+- Amharic, Afaan Oromo, Tigrinya, and English language metadata.
+- NLLB-200 and Argos Translate provider integrations.
+- Replaceable translation engines.
+- Privacy-focused local processing without telemetry.
+
+**Technologies:** Python, NLLB-200, CTranslate2, Argos Translate.
+
+### 🖥️ [Language Translator Desktop](https://github.com/unmoha/the-language-translator-desktop-apk)
+**Desktop Translation Application**
+
+A JavaFX-based client-server translation application featuring language detection, OCR, and speech-to-text capabilities.
+
+**Technologies:** Java, JavaFX.
+
+### 🧩 [Enkoklsh (እንቆቅልሽ)](https://github.com/unmoha/Enkokleh_quiz-web)
+**Multilingual Ethiopian Quiz Platform**
+
+An Ethiopian-themed quiz web application supporting English, Amharic, and Afaan Oromo.
+
+**Technologies:** PHP, MySQL.
+
+### 🍳 [Kitchen Quest](https://github.com/unmoha/Kitchen-Quest)
+**Interactive Educational Cooking Game**
+
+A cooking-themed educational game featuring recipes, XP progression, leaderboards, and an AI chef.
+
+**Technologies:** Next.js, Supabase.
+
+### 💬 [Message Canvas](https://github.com/unmoha/message-canvas)
+**Real-Time Messaging Application**
+
+A Telegram-style messaging application featuring one-to-one conversations, group chats, and status indicators.
+
+**Technologies:** React, Node.js, Socket.io, MongoDB.
+
+---
+
+## 🌱 Open Source Contributions
+
+### [CONTINUUM](https://github.com/Cyrax321/CONTINUUM)
+
+Contributed to an open-source project focused on long-running AI agents.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmoha&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unmoha&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Current Interests
+
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Engineering & Software Architecture
+- Offline-First AI Applications
+- Open-Source Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, AI engineers, open-source contributors, and people building meaningful technology.
+
+📧 **Email:** anwarmoha7926@gmail.com
+
+💻 **GitHub:** [github.com/unmoha](https://github.com/unmoha)
+
+---
+
+<p align="center">
+  <i>"Building useful technology, one project at a time."</i>
+</p>
